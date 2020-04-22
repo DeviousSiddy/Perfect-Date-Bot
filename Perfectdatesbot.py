@@ -394,4 +394,4 @@ def nextplayercheck(): #check who next player is and return player #.
 
 
 
-client.run('Njk5MzIxOTU0MDc0ODg2MjI1.XpUP8Q.Pyu1JLYdRPBqTfyrnPx4jQrejd8')
+client.run('token')
