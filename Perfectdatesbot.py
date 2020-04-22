@@ -393,5 +393,6 @@ def nextplayercheck(): #check who next player is and return player #.
 
 
 
-
-client.run('token')
+with open('token.dat', 'r') as file:
+    token = file.read()
+client.run(token)
